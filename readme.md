@@ -1,10 +1,4 @@
 
-# Hi
+# Check for new stash commands
 
-
-# Hello
-
-# How are you?
-
-#How much code i have to update?
-
+# Now check for stash commands
